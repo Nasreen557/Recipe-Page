@@ -21,7 +21,8 @@ This is a solution to the [Frontend Mentor Recipe Page Challenge](https://www.fr
 
 ## 📸 Screenshots
 
-Include screenshots here of desktop and mobile versions.
+![Desktop View](image.png)
+![Mobile text](image-1.png)
 
 ## 💡 What I Learned
 
