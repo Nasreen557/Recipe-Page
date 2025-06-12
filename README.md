@@ -1,3 +1,9 @@
+# Recipe page
+
+![Design preview for the Recipe page coding challenge](./preview.jpg)
+
+## Welcome to Recipe Page! 👋
+
 # 🍳 Recipe Page Challenge
 
 This is a solution to the [Frontend Mentor Recipe Page Challenge](https://www.frontendmentor.io). Built using HTML and CSS.
