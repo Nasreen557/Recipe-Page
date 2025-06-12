@@ -37,5 +37,5 @@ This is a solution to the [Frontend Mentor Recipe Page Challenge](https://www.fr
 
 ## 🙋‍♀️ Author
 
-- GitHub: [@YOUR_USERNAME](https://github.com/Nasreen557)
-- Frontend Mentor: [@yourhandle](https://www.frontendmentor.io/profile/Nasreen557)
+- GitHub: [Nasreen557](https://github.com/Nasreen557)
+- Frontend Mentor: [Nasreen557](https://www.frontendmentor.io/profile/Nasreen557)
